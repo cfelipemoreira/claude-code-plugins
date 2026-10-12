@@ -1,0 +1,92 @@
+[
+  {
+    "plugin": "eli5",
+    "marketplace": "claude-community",
+    "marketplace_repo": "anthropics/claude-plugins-community",
+    "version": "1.0.0",
+    "commit": "a727be1c7bd6064419b6f60d71993a19198adc17",
+    "descricao": "Explain any topic like I'm 5: a dead-simple HTML picture explainer with big visuals and few words. Use /eli5 <topic>.",
+    "habilitado": true,
+    "tipo": "plugin"
+  },
+  {
+    "plugin": "watch",
+    "marketplace": "claude-video",
+    "marketplace_repo": "bradautomates/claude-video",
+    "version": "0.3.2",
+    "commit": "03ceb42f7fa2c4439aca01752118044baabffb8f",
+    "descricao": "Give an agent video evidence: timestamped frames and native captions, with optional local WhisperX or Groq/OpenAI transcription.",
+    "habilitado": true,
+    "tipo": "plugin"
+  },
+  {
+    "plugin": "impeccable",
+    "marketplace": "impeccable",
+    "marketplace_repo": "pbakaus/impeccable",
+    "version": "4.5.2",
+    "commit": "c63b8dd7dd5a5f3c32eaabe1af76d0694f863ed2",
+    "descricao": "Design fluency for frontend development. 1 skill with 24 commands (/impeccable polish, /impeccable audit, /impeccable critique, etc.) and curated anti-pattern detection.",
+    "habilitado": true,
+    "tipo": "plugin"
+  },
+  {
+    "plugin": "ponytail",
+    "marketplace": "ponytail",
+    "marketplace_repo": "DietrichGebert/ponytail",
+    "version": "5.1.0",
+    "commit": "9b58c1ffb790c075ca32e70a89cf1d80588f4abf",
+    "descricao": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
+    "habilitado": true,
+    "tipo": "plugin"
+  },
+  {
+    "plugin": "skins",
+    "marketplace": "hellosverre-mods",
+    "marketplace_repo": "hellosverre/claude-skins",
+    "version": "0.5.3",
+    "commit": "079b2d19d7faa767ec379a15015864de2ae53af9",
+    "descricao": "Skins for Claude Code: tool rows that open onto their input and answer, highlighted code, diff, table, math, Mermaid and shell cards, links, folding, a usage band, a calm mode and fifteen themes. /skin swaps them live.",
+    "habilitado": true,
+    "tipo": "mod (plugin de mod-manager)"
+  },
+  {
+    "plugin": "mods-manager",
+    "marketplace": "mods-manager",
+    "marketplace_repo": "ptpmediabr/mods-manager",
+    "version": "0.4.4",
+    "commit": "db775762a2f703098e5511aff42285fcb6048252",
+    "descricao": "Painel para ver, ligar, desligar, instalar e agrupar em perfis os seus mods e plugins.",
+    "habilitado": true,
+    "tipo": "mod (plugin de mod-manager)"
+  },
+  {
+    "plugin": "usage-weather",
+    "marketplace": "usage-weather",
+    "marketplace_repo": "ptpmediabr/usage-weather",
+    "version": "0.2.2",
+    "commit": "09035e98678226a845663f1782e9d7860d32af00",
+    "descricao": "One quiet line above the prompt: context, 5-hour and weekly usage, whether the prompt cache is warm, and a Clear & continue button.",
+    "habilitado": true,
+    "tipo": "mod (plugin de mod-manager)"
+  },
+  {
+    "plugin": "ideas-shelf",
+    "marketplace": "ideas-shelf",
+    "marketplace_repo": "ptpmediabr/ideas-shelf",
+    "version": "0.1.0",
+    "commit": "697cde1b343d9d6159acbb832c48109cb6eb375e",
+    "descricao": "Prateleira de ideias por projeto: anote ideias num painel e marque como feitas; fica salvo em IDEAS.md na raiz do projeto.",
+    "habilitado": true,
+    "tipo": "mod (plugin de mod-manager)"
+  },
+  {
+    "plugin": "side-chat",
+    "marketplace": "side-chat",
+    "marketplace_repo": "ptpmediabr/side-chat",
+    "version": "0.2.0",
+    "commit": "ca787c7e309c3f867cb9c1a20095dc067d1accaa",
+    "descricao": "A side chat pane inside the session that answers questions or runs requests on a model of your choice.",
+    "habilitado": true,
+    "tipo": "mod (plugin de mod-manager)"
+  }
+]

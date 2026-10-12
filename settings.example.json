@@ -1,0 +1,69 @@
+{
+  "enabledPlugins": {
+    "eli5@claude-community": true,
+    "watch@claude-video": true,
+    "impeccable@impeccable": true,
+    "ponytail@ponytail": true,
+    "skins@hellosverre-mods": true,
+    "mods-manager@mods-manager": true,
+    "usage-weather@usage-weather": true,
+    "ideas-shelf@ideas-shelf": true,
+    "side-chat@side-chat": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-community": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-community"
+      }
+    },
+    "claude-video": {
+      "source": {
+        "source": "github",
+        "repo": "bradautomates/claude-video"
+      }
+    },
+    "impeccable": {
+      "source": {
+        "source": "github",
+        "repo": "pbakaus/impeccable"
+      }
+    },
+    "ponytail": {
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
+      }
+    },
+    "hellosverre-mods": {
+      "source": {
+        "source": "github",
+        "repo": "hellosverre/claude-skins"
+      }
+    },
+    "mods-manager": {
+      "source": {
+        "source": "github",
+        "repo": "ptpmediabr/mods-manager"
+      }
+    },
+    "usage-weather": {
+      "source": {
+        "source": "github",
+        "repo": "ptpmediabr/usage-weather"
+      }
+    },
+    "ideas-shelf": {
+      "source": {
+        "source": "github",
+        "repo": "ptpmediabr/ideas-shelf"
+      }
+    },
+    "side-chat": {
+      "source": {
+        "source": "github",
+        "repo": "ptpmediabr/side-chat"
+      }
+    }
+  }
+}
